@@ -1,0 +1,9 @@
+1. cari file json yang sesuai
+2. buka file json
+3. rapihin data di https://jsoneditoronline.org/
+4. kalo error di auto repair / kalo engga copy lagi
+5. di liat pake table viewer https://jsongrid.com/json-grid
+6. sortir data dari jam 8 sampe jam 15 (taro di exel sementara)
+7. sortir data yang interval nya 5 menit (data yang kurang ditambah row nya / yang lebih di hapus row nya)
+8. data sudah bersih dari exel sementara ke exel dataset (isi data hari keberapa, week keberapa, lokasi/zone keberapa)
+	
